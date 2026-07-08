@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-/// @title ConditionalEscrow - Uslovni escrow sa arbitraÅ¾om
+/// @title ConditionalEscrow - Uslovni escrow sa arbitrazom
 /// @notice Omogucava kupcu da deponuje sredstva kod ugovora, koja se
 ///         oslobadjaju prodavcu tek nakon potvrde kupca, ili se, u slucaju
 ///         spora, raspodeljuju po odluci unapred dogovorenog arbitra.
