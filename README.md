@@ -40,5 +40,5 @@ Pametni ugovor je deployovan na Sepolia test mrežu.
 
 *Adresa ugovora:*
 
-```text
+
 0x4a127cda98ddc2a88ed4eb8c76bbaf5f1f381964
