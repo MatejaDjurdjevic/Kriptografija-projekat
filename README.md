@@ -2,11 +2,11 @@
 
 Ovaj projekat predstavlja pametni ugovor za uslovni escrow sistem sa arbitražom. Cilj je da se omogući sigurno deponovanje sredstava između kupca i prodavca, pri čemu se sredstva oslobađaju tek nakon ispunjenja dogovorenih uslova ili nakon odluke arbitra u slučaju spora.
 
-- Opis projekta
+*Opis projekta*
 
 ConditionalEscrow omogućava kupcu da kreira escrow transakciju i odmah deponuje ETH u pametni ugovor. Prodavac dobija sredstva tek kada kupac potvrdi prijem robe ili usluge. Ako dođe do neslaganja između kupca i prodavca, jedna od strana može pokrenuti spor, a unapred definisani arbitar donosi konačnu odluku o tome kome se sredstva isplaćuju.
 
-- Glavne funkcionalnosti
+*Glavne funkcionalnosti*
 
 - kreiranje i finansiranje escrow-a
 - potvrda prijema od strane kupca
@@ -33,7 +33,8 @@ ConditionalEscrow omogućava kupcu da kreira escrow transakciju i odmah deponuje
 - Sepolia test network
 - MetaMask
 
-- Deploy na Sepolia mreži
+
+*Deploy na Sepolia mreži*
 
 Pametni ugovor je deployovan na Sepolia test mrežu.
 
