@@ -19,7 +19,7 @@ ConditionalEscrow omogućava kupcu da kreira escrow transakciju i odmah deponuje
 - emitovanje događaja radi javne provere transakcija
 
 
-  *Uloge u sistemu*
+*Uloge u sistemu*
 
 - **Kupac** – kreira escrow i deponuje sredstva.
 - **Prodavac** – prima sredstva nakon potvrde kupca ili može dobrovoljno vratiti sredstva kupcu.
