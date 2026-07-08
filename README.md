@@ -18,11 +18,13 @@ ConditionalEscrow omogućava kupcu da kreira escrow transakciju i odmah deponuje
 - reentrancy zaštita
 - emitovanje događaja radi javne provere transakcija
 
+
   *Uloge u sistemu*
 
 - **Kupac** – kreira escrow i deponuje sredstva.
 - **Prodavac** – prima sredstva nakon potvrde kupca ili može dobrovoljno vratiti sredstva kupcu.
 - **Arbitar** – neutralna treća strana koja rešava spor u korist kupca ili prodavca.
+
 
 *Korišćene tehnologije*
 
